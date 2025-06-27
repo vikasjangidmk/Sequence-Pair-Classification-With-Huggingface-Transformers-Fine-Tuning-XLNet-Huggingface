@@ -192,3 +192,8 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+paraphrase_xlnet_model/
+# Paraphrase XLNet model files
+#  These files are large and can be regenerated if needed. They are not necessary for the
+#  functioning of the codebase, so they can be safely ignored.
